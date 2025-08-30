@@ -1,0 +1,23 @@
+# Dependencias para el sistema de automatización de correos Tavolo Casa
+# 
+# Para instalar: pip install -r requirements.txt
+
+# No se requieren dependencias externas adicionales
+# El script usa solo librerías estándar de Python:
+# - smtplib (SMTP client)
+# - ssl (SSL/TLS support) 
+# - csv (CSV file handling)
+# - json (JSON configuration)
+# - logging (Logging system)
+# - email (Email message handling)
+# - pathlib (Path utilities)
+# - typing (Type hints)
+# - os (Operating system interface)
+# - time (Time-related functions)
+# - datetime (Date and time handling)
+
+# Si deseas agregar funcionalidades adicionales, considera:
+# requests>=2.28.0        # Para APIs REST
+# beautifulsoup4>=4.11.0  # Para parsing HTML avanzado
+# pandas>=1.5.0           # Para manejo avanzado de datos CSV
+# jinja2>=3.1.0           # Para plantillas más complejas

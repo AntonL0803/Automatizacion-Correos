@@ -1,0 +1,25 @@
+{
+    "sender_email": "antonluo15@gmail.com",
+    "sender_name": "TavoloCasa",
+    "sender_password": "wksk hrvp xiyt olyb",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "company_info": {
+        "name": "Tavolo Casa",
+        "website": "https://tavolocasa.com",
+        "phone": "655 586 462",
+        "description": "La tienda del confort - Especialistas en artículos para el descanso",
+        "products": [
+            "Cojines",
+            "Almohadas",
+            "Edredones",
+            "Rellenos",
+            "Artículos para mascotas"
+        ]
+    },
+    "email_settings": {
+        "delay_between_emails": 2,
+        "max_retries": 3,
+        "batch_size": 50
+    }
+}

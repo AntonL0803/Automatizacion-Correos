@@ -1,0 +1,6 @@
+2025-08-31 01:23:15,552 - INFO - Sistema de correos Tavolo Casa iniciado
+2025-08-31 01:23:19,649 - INFO - Cargados 2 contactos desde lista_correos.csv
+2025-08-31 01:23:19,650 - INFO - Iniciando envío masivo a 2 contactos
+2025-08-31 01:23:24,102 - INFO - Correo enviado exitosamente a antonluo23@gmail.com
+2025-08-31 01:23:28,404 - INFO - Correo enviado exitosamente a aaroncasado2003@gmail.com
+2025-08-31 01:23:28,413 - INFO - Envío masivo completado. Éxito: 2/2
